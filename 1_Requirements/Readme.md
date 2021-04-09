@@ -26,6 +26,7 @@ Having mentioned these things, every person must aim to keep their fitness level
 
 ## Cost and Features
 Features: 
+
 •	The person will be giving certain details such as name, age, height, weight, etc. required for the calculation of the fitness indices. 
 
 •	The person will be then giving an input as to which index the person wishes to see for himself.
