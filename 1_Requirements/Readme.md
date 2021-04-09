@@ -10,6 +10,7 @@
 •	Thus, the aim of people moving more towards the fitness will lead to overall physical development and enhanced immunity for a healthy well-being. 
 ## Research
 Why is maintaining fitness important? 
+
 •	Save money: 
 With medical treatment getting expensive and unaffordable for a common man, staying healthy not only saves your hard-earned money but also leads to a happier life and wellness.
 
