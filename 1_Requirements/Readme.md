@@ -1,5 +1,5 @@
 # Requirements
-## Introduction
+## Introduction and Objective
 •	In these recent times of pandemic Fitness and Health has become an inevitable component for survival. It is of utmost importance for people to maintain good physical health and immunity for fighting off the deadly pathogens.
 
 •	When it comes to fitness and health, there are only few basic fundamental parameters to look for like height, weight, diet, etc. However, there’re indices based on these factors which shows the fitness quality of a person. These indices are Body mass Index (BMI), Basal metabolic rate (BMR), Fat percentage, and so on. 
