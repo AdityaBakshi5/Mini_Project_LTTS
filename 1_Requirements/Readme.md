@@ -46,6 +46,8 @@ Features:
 
 
 ## SWOT ANALYSIS
+
+https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg
  
 # 4W&#39;s and 1&#39;H
 
