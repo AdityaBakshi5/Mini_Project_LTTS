@@ -1,5 +1,6 @@
-# Requirements
-## Introduction and Objective
+# REQUIREMENTS 
+
+## INTRODUCTION AND OBJECTIVE
 •	In these recent times of pandemic Fitness and Health has become an inevitable component for survival. It is of utmost importance for people to maintain good physical health and immunity for fighting off the deadly pathogens.
 
 •	When it comes to fitness and health, there are only few basic fundamental parameters to look for like height, weight, diet, etc. However, there’re indices based on these factors which shows the fitness quality of a person. These indices are Body mass Index (BMI), Basal metabolic rate (BMR), Fat percentage, and so on. 
@@ -8,7 +9,9 @@
 •	This project aims to calculate the above-mentioned indices of a person and give out the fitness check of the person. The person has to input the basic details of height, weight which will be processed to give output. 
 
 •	Thus, the aim of people moving more towards the fitness will lead to overall physical development and enhanced immunity for a healthy well-being. 
-## Research
+
+## RESEARCH 
+
 Why is maintaining fitness important? 
 
 •	Save money: 
@@ -24,7 +27,8 @@ Regular exercise and physical activity increase muscle strength, bone density, f
 A sedentary lifestyle and a lack of physical activity can take a toll on a person’s body. Physical inactivity is associated with an increased risk for certain types of cancer, numerous chronic diseases, and mental health issues. Exercise, however, has been shown to improve mood and mental health, and provides numerous health benefits. Of course, physical fitness also allows you to do things that you may not otherwise be able to do.
 Having mentioned these things, every person must aim to keep their fitness level improving. Thus, the fitness indices which examines the fitness quality also needs to be aimed at ideal values. Ideal index values show the person is active, fit, and leading a healthy life. 
 
-## Cost and Features
+## COST AND FEATURES
+
 Features: 
 
 •	The person will be giving certain details such as name, age, height, weight, etc. required for the calculation of the fitness indices. 
@@ -65,7 +69,7 @@ Only a device supporting the applicated will be required for giving in the input
 ## How:
 The code will be implemented with functions which will be called as per the index person wishes to see, and the function will be processing the input data given by the person. The output will be then printed giving the health check of the person. 
 
-# Detail requirements
+# DETAIL REQUIREMENTS 
 ## High Level Requirements:
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
