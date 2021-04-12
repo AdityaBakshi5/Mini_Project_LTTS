@@ -45,7 +45,7 @@ Features:
 •	Thereby, this project is a handy tool where the person has to simply give out basic details which will be processed and the output will be given with a report. 
 
 
-![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/Project%20Description%20Flowchart.jpg)
+![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/Decription_Flowchart.jpg)
  
 
 
