@@ -26,11 +26,11 @@ int main()
     printf("Welcome\n");
     int choice = 0;
 
-    float *ptrw, *ptrh;
-    int *ptra;
-    char *ptrc;
+    float *ptrw= NULL, *ptrh = NULL;
+    int *ptra = NULL;
+    char *ptrc = NULL;
 
-    user *ptr, data;
+    user data, *ptr=NULL;
     ptr = &data;
 
     ptr = (user *)malloc(sizeof(user));
