@@ -1,10 +1,9 @@
 # REQUIREMENTS 
 
-## INTRODUCTION AND OBJECTIVE
+## INTRODUCTION_AND_OBJECTIVE
 •	In these recent times of pandemic Fitness and Health has become an inevitable component for survival. It is of utmost importance for people to maintain good physical health and immunity for fighting off the deadly pathogens.
 
 •	When it comes to fitness and health, there are only few basic fundamental parameters to look for like height, weight, diet, etc. However, there’re indices based on these factors which shows the fitness quality of a person. These indices are Body mass Index (BMI), Basal metabolic rate (BMR), Fat percentage, and so on. 
-
 
 •	This project aims to calculate the above-mentioned indices of a person and give out the fitness check of the person. The person has to input the basic details of height, weight which will be processed to give output. 
 
@@ -27,7 +26,7 @@ Regular exercise and physical activity increase muscle strength, bone density, f
 A sedentary lifestyle and a lack of physical activity can take a toll on a person’s body. Physical inactivity is associated with an increased risk for certain types of cancer, numerous chronic diseases, and mental health issues. Exercise, however, has been shown to improve mood and mental health, and provides numerous health benefits. Of course, physical fitness also allows you to do things that you may not otherwise be able to do.
 Having mentioned these things, every person must aim to keep their fitness level improving. Thus, the fitness indices which examines the fitness quality also needs to be aimed at ideal values. Ideal index values show the person is active, fit, and leading a healthy life. 
 
-## COST AND FEATURES
+## FEATURES
 
 Features: 
 
@@ -35,22 +34,19 @@ Features:
 
 •	The person will be then giving an input as to which index the person wishes to see for himself.
 
-
 •	As per the input, corresponding function will be called by the code, and the function will be processing all the input data and the output will be printed accordingly.
 
 •	Thus, this project is a handy tool where person simply gives input and output will be given within no time!
-## Defining Our System
+## Defining_Our_System
 •	The project is aimed towards calculating the health and fitness indices such as Body Mass Index (BMI), Basal metabolic rate (BMR), Fat percentage. These are very crucial indices which determine the person’s everyday being and fitness quality. 
 
 •	Thereby, this project is a handy tool where the person has to simply give out basic details which will be processed and the output will be given with a report. 
 
-
 ![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/Decription_Flowchart.jpg)
-## SWOT ANALYSIS
-
+## SWOT_ANALYSIS
 
 ![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg)
-## 4W & 1H
+## 4W_&1H
 ## Who
 The project is accessible for everyone. A person has to simply input his basic details such as height, weight, etc. for getting the output.
 ## What
@@ -62,13 +58,13 @@ Only a device supporting the applicated will be required for giving in the input
 ## How
 The code will be implemented with functions which will be called as per the index person wishes to see, and the function will be processing the input data given by the person. The output will be then printed giving the health check of the person. 
 
-# DETAIL REQUIREMENTS 
-## High Level Requirements
+# DETAIL_REQUIREMENTS 
+## High_Level_Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | HR01 | User shall be able to give inputs | Techincal | TBD-S1 | 
 | HR02 | Desired output should be given will proper units| Techincal | TBD-S1 |
-## Low level Requirements
+## Low_level_Requirements
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | The system will be asking for few details such as age, name, height, weight as input which the user should be able to give| HR01 | TBD-S1 |
@@ -76,4 +72,3 @@ The code will be implemented with functions which will be called as per the inde
 | LR03 | User will be given three option for choosing which index is to be evaluated. 1 for BMI, 2 for BMR and 3 for Fat percentage (switch cases will be used accordingly to call the function)| HR02 | TBD-S1 |
 | LR04 | Receiving the input, the system must call the appropriate function which will process the inputs and give the desired output | HR02 | TBD-S1 |
 | LR05 |More fitness indices can be incorporated for making it a wholesome fitness index kit | HR02 | FUTURE |
-
