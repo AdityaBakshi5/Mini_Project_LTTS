@@ -50,17 +50,21 @@ int main()
     printf("Enter weight in kg: \t");
     scanf("%f", &ptr->weight_in_kg);
 
-    ptrw = (float *)malloc(sizeof(float));
+    
     ptrw = &ptr->weight_in_kg;
+    ptrw = (float *)malloc(sizeof(float));
 
-    ptrh = (float *)malloc(sizeof(float));
+    
     ptrh = &ptr->height_in_m;
+    ptrh = (float *)malloc(sizeof(float));
 
-    ptra = (int *)malloc(sizeof(int));
+    
     ptra = &ptr->age;
+    ptra = (int *)malloc(sizeof(int));
 
-    ptrc = (char *)malloc(sizeof(char));
+    
     ptrc = &ptr->Gender;
+    ptrc = (char *)malloc(sizeof(char));
 
     printf("Enter\n 1 for BMI\n 2 for BMR\n 3 for Fat_percent\n 4 for all\n");
     scanf("%d", &choice);
