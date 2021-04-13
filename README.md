@@ -1,13 +1,9 @@
 
-# SDLC Activity Based Learning
+# SDLC_Activity_Based_Learning
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
 [![C/C++ CI](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/C-build.yml/badge.svg)](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/C-build.yml)|[![Static Check](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/AdityaBakshi5/Mini_Project_LTTS/dashboard?branch=main=Badge_Grade) |To be added | [![git inspector CI](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/gitinspector.yml)
-
-
-
-
 
 ## Folder Structure
 Folder             | Description
@@ -22,7 +18,6 @@ Folder             | Description
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260010` | Aditya Bakshi  | Feature A, B etc    | X No     | X No   |X No   |X No     
-   
 ## Challenges Faced and How Was It Overcome
 
 1. ABC
