@@ -1,9 +1,5 @@
-# Mini_Project_LTTS
-Step-in Miniproject
+
 # SDLC Activity Based Learning
-
-
-
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
@@ -27,7 +23,6 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260010` | Aditya Bakshi  | Feature A, B etc    | X No     | X No   |X No   |X No     
    
-
 ## Challenges Faced and How Was It Overcome
 
 1. ABC
