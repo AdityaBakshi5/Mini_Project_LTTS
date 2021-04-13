@@ -57,8 +57,7 @@ With increased environmental problems, focus has been on improving immunity and 
 Only a device supporting the applicated will be required for giving in the inputs and getting the desired output. 
 ## How
 The code will be implemented with functions which will be called as per the index person wishes to see, and the function will be processing the input data given by the person. The output will be then printed giving the health check of the person. 
-
-# DETAIL_REQUIREMENTS 
+ 
 ## High_Level_Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
