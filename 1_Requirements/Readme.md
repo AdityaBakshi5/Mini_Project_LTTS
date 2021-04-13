@@ -50,6 +50,7 @@ Features:
 
 
 ![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg)
+## 4W & 1H
 ## Who
 The project is accessible for everyone. A person has to simply input his basic details such as height, weight, etc. for getting the output.
 ## What
