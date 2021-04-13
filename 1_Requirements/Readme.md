@@ -46,36 +46,28 @@ Features:
 
 
 ![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/Decription_Flowchart.jpg)
- 
-
-
-
 ## SWOT ANALYSIS
 
 
 ![Description](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/1_Requirements/SWOT.jpg)
-
- 
-# 4W&#39;s and 1&#39;H
-
-## Who:
+## Who
 The project is accessible for everyone. A person has to simply input his basic details such as height, weight, etc. for getting the output.
-## What:
+## What
 Upon receiving the inputs, the parameters will be processed and the index person wishes to see will be given as output. 
-## When:
+## When
 With increased environmental problems, focus has been on improving immunity and fitness level to survive the harsh environmental conditions such as pollutions, infections, and deadly pathogens. Thus, with more and more focus into health and fitness, people are motivated to work towards and it for a heathier lifestyle.
-## Where:
+## Where
 Only a device supporting the applicated will be required for giving in the inputs and getting the desired output. 
-## How:
+## How
 The code will be implemented with functions which will be called as per the index person wishes to see, and the function will be processing the input data given by the person. The output will be then printed giving the health check of the person. 
 
 # DETAIL REQUIREMENTS 
-## High Level Requirements:
+## High Level Requirements
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | HR01 | User shall be able to give inputs | Techincal | TBD-S1 | 
 | HR02 | Desired output should be given will proper units| Techincal | TBD-S1 |
-## Low level Requirements:
+## Low level Requirements
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | The system will be asking for few details such as age, name, height, weight as input which the user should be able to give| HR01 | TBD-S1 |
