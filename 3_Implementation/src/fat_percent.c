@@ -27,6 +27,7 @@ float fat_percent(int *age, float *weight_in_kg, float *height_in_m, char *Gende
         {
             printf("High Body Fat risk\n");
         }
+        return f;
         break;
     case 'F':
         b = ((1.20 * x) + (0.23 * (*age)) - 5.4);
@@ -47,9 +48,11 @@ float fat_percent(int *age, float *weight_in_kg, float *height_in_m, char *Gende
         {
             printf("High Body Fat risk\n");
         }
+        return b;
         break;
     default:
         printf("Invalid Entry\n");
         break;
     }
+    return 0.0;
 }
