@@ -41,5 +41,5 @@ float bmi(float *weight, float *height)
         printf("Invalid entry\n");
     }
 
-    return 0;
+    return x;
 }
