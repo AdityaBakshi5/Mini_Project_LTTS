@@ -50,17 +50,18 @@ int main()
     printf("Enter weight in kg: \t");
     scanf("%f", &ptr->weight_in_kg);
 
-    ptrw = &ptr->weight_in_kg;
     ptrw = (float *)malloc(sizeof(float));
-
-    ptrh = &ptr->height_in_m;
+    ptrw = &ptr->weight_in_kg;
+    
     ptrh = (float *)malloc(sizeof(float));
-
-    ptra = &ptr->age;
+    ptrh = &ptr->height_in_m;
+    
     ptra = (int *)malloc(sizeof(int));
-
-    ptrc = &ptr->Gender;
+    ptra = &ptr->age;
+    
     ptrc = (char *)malloc(sizeof(char));
+    ptrc = &ptr->Gender;
+    
 
     printf("Enter\n 1 for BMI\n 2 for BMR\n 3 for Fat_percent\n 4 for all\n");
     scanf("%d", &choice);
@@ -72,6 +73,7 @@ int main()
         break;
     case 2:
         a = (*bmr_fptr)(ptrw, ptrh, ptra, ptrc);
+        printf("The amount of calories needed for normal functioning of body:\t");
         printf("%f\n", a);
         break;
     case 3:
@@ -80,6 +82,7 @@ int main()
     case 4:
         (*bmi_fptr)(ptrw, ptrh);
         a = (*bmr_fptr)(ptrw, ptrh, ptra, ptrc);
+        printf("The amount of calories needed for normal functioning of body:\t");
         printf("%f\n", a);
         (*fatP_fptr)(ptra, ptrw, ptrh, ptrc);
         break;
