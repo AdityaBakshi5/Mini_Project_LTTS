@@ -26,11 +26,11 @@ int main()
     printf("Welcome\n");
     int choice = 0;
 
-    float *ptrw= NULL, *ptrh = NULL;
+    float *ptrw = NULL, *ptrh = NULL;
     int *ptra = NULL;
     char *ptrc = NULL;
 
-    user data, *ptr=NULL;
+    user data, *ptr = NULL;
     ptr = &data;
 
     ptr = (user *)malloc(sizeof(user));
@@ -50,19 +50,15 @@ int main()
     printf("Enter weight in kg: \t");
     scanf("%f", &ptr->weight_in_kg);
 
-    
     ptrw = &ptr->weight_in_kg;
     ptrw = (float *)malloc(sizeof(float));
 
-    
     ptrh = &ptr->height_in_m;
     ptrh = (float *)malloc(sizeof(float));
 
-    
     ptra = &ptr->age;
     ptra = (int *)malloc(sizeof(int));
 
-    
     ptrc = &ptr->Gender;
     ptrc = (char *)malloc(sizeof(char));
 
