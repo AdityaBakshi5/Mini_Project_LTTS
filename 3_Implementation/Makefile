@@ -10,8 +10,19 @@ SRC= src/bmi.c\
 	src/fat_percent.c\
 main.c\
 
+TEST_SRC = src/bmi.c\
+src/bmr.c\
+src/fat_percent.c\
+test/temp.c\
+unity/unity.c\
+
 # All include folders with header files
 INC	= inc/bmi_bmr_fatPercent.h\
+
+INC1	= -Iinc\
+-Iunity\
+
+TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # Project Output name
 PROJECT_OUTPUT= $(BUILD)/$(PROJECT_NAME).out
@@ -21,6 +32,8 @@ DOCUMENTATION_OUTPUT = documentation/html
 
 # Default target built
 $(PROJECT_NAME):all
+
+INCLUDE_LIBS = -lcunit
 
 # Run the target even if the matching name exists
 .PHONY: run clean test doc all
@@ -35,6 +48,10 @@ run:$(PROJECT_NAME)
 # Document the code using Doxygen
 doc:
 	make -C ./documentation
+
+test:$(BUILD)
+	gcc $(TEST_SRC) $(INC1) -o $(TEST_OUTPUT) $(INCLUDE_LIBS)
+	./$(TEST_OUTPUT)
 
 
 
