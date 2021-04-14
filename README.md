@@ -2,6 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d1895c8212d4432ebb8d1e6df0f8688d)](https://app.codacy.com/gh/AdityaBakshi5/Mini_Project_LTTS?utm_source=github.com&utm_medium=referral&utm_content=AdityaBakshi5/Mini_Project_LTTS&utm_campaign=Badge_Grade_Settings)
 [![C/C++ CI](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/C-build.yml/badge.svg)](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/C-build.yml)|[![Static Check](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/AdityaBakshi5/Mini_Project_LTTS/dashboard?branch=main=Badge_Grade) |To be added | [![git inspector CI](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdityaBakshi5/Mini_Project_LTTS/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
