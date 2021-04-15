@@ -18,8 +18,8 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 `260010` | Aditya Bakshi  | Calculates BMI, BMR, Fat Percentage indices   | -     | -   | 3   | 3  
 
 ## Challenges Faced and How Was It Overcome
-1. Unit testing was not able to work as functions had pointer arguments.
-   * Parameters to be tested were then defined in the test.c file and then addresses of those parameters were passed as arguments which worked successfully !  
-2. Unit testing was not working for one of the functions. 
-   * Modified the function as a return type function as previously it took arguments and printed results in the function itself without returning anything. 
-
+1.  Unit testing was not able to work as functions had pointer arguments.
+     * Parameters to be tested were then defined in the test.c file and then addresses of those parameters were passed as arguments which worked successfully !
+       
+2.  Unit testing was not working for one of the functions. 
+     * Modified the function as a return type function as previously it took arguments and printed results in the function itself without returning anything.
