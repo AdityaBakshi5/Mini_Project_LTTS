@@ -62,7 +62,7 @@ The code will be implemented with functions which will be called as per the inde
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | HR01 | User shall be able to give inputs | Techincal | TBD-S1 | 
-| HR02 | Desired output should be given will proper units| Techincal | TBD-S1 |
+| HR02 | Desired input should be given with proper units| Techincal | TBD-S1 |
 ## Low_level_Requirements
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
