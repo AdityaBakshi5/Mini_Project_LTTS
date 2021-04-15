@@ -15,7 +15,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260010` | Aditya Bakshi  | Feature A, B etc    | 84     | 42   |X No   |X No     
+`260010` | Aditya Bakshi  | Feature A, B etc    | 84     | 42   | 3   | 3   
 ## Challenges Faced and How Was It Overcome
 
 1.  ABC
