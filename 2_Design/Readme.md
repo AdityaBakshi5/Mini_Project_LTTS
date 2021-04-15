@@ -4,6 +4,9 @@
 *   Architecture Diagram
 ![Architecture](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/2_Design/HLD_1.jpg)
 
+*   Use-Case Diagram
+![Architecture](https://github.com/AdityaBakshi5/Mini_Project_LTTS/blob/main/2_Design/HLD_2.jpg)
+
 ## Low Level Design 
 
 *   Low level layout#1 
