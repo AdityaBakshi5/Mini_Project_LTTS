@@ -14,4 +14,4 @@
 |  LR_01       |Calculate BMI when user gives choice 1 as input|User inputs weight in kg and height in m|SUCCESS|SUCCESS|Requirement based |
 |  LR_02       |Calculate BMR when user gives choice 2 as input|User inputs weight in kg, height in m, age in years, gender as 'M' or 'F'|SUCCESS|SUCCESS|Requirement based |
 |  LR_03       |Calculate FAT_PERCENT when user gives choice 3 as input|User inputs weight in kg, height in m, age in years, gender as 'M' or 'F'|SUCCESS|SUCCESS|Requirement based |
-|  LR_02       |Calculate all indices when user gives choice 4 as input|User inputs weight in kg, height in m, age in years, gender as 'M' or 'F'|SUCCESS|SUCCESS|Requirement based |
+|  LR_04       |Calculate all indices when user gives choice 4 as input|User inputs weight in kg, height in m, age in years, gender as 'M' or 'F'|SUCCESS|SUCCESS|Requirement based |
